@@ -81,3 +81,9 @@ Channel Contribution to Sales
 Order status
 
 [(Screenshot of chart showing order status)](https://github.com/AnjaliChaturvedi007/India-CPI-Inflation-Analysis/blob/main/Order%20Status.png)
+
+Vrinda-Store-Data-Analysis: Interactive Sales Dashboard
+
+[Screenshot of chart showing Vrinda-Store-Data-Analysis](https://github.com/AnjaliChaturvedi007/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report%202022.png)
+
+
